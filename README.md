@@ -1,2 +1,1 @@
-# github.io
-博客
+git clone https://github.com/ qidianwl / qidianwl .github.io
